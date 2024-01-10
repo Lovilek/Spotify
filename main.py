@@ -3,9 +3,9 @@ import requests
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-client_id = "4098291307c6448fa750de31c54f9227"
-client_secret = "be76420875c049b3a70cd5ea4ff77d22"
-nickname = "hen892ejjs6x3jfc1p8zyvbpg"
+client_id = "#"
+client_secret = "#"
+nickname = "#"
 
 date = input("Which year do you want to travel to? Type th date in this format YYYY-MM-DD: ")
 URL = f"https://www.billboard.com/charts/hot-100/{date}"
